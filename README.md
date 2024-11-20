@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Harshi Shah](https://github.com/Shahharshii/Shahharshii/blob/main/Harshi%20Shah.png)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=15F7BDFF&size=24&width=500&lines=Frontend Developer;Data Analyst)
 <!--
 **Shahharshii/Shahharshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
