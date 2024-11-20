@@ -33,3 +33,13 @@
   </a>
 </p>
 
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahharshii&theme=algolia" alt="Profile summary card"/>
+  
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shahharshii&theme=algolia" alt="Github Trophies"/>
+  
+</p>
+
+
