@@ -5,17 +5,22 @@
 
 - 💬 Ask me about Frontend Development, Data Analyst, Software Testing.
 - 📫 How to reach me: shahharshi.2704@gmail.com
-<!--
-**Shahharshii/Shahharshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ⚙️ Tech stack 
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Framework, platforms and libraries
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind)
+
+### IDE/Editors
+![My Skills](https://skillicons.dev/icons?i=vscode)
+
+### Version Control
+![My Skills](https://skillicons.dev/icons?i=git,github)
+
+### Hosting
+![My Skills](https://skillicons.dev/icons?i=vercel)
+
+### Database 
+![My Skills](https://skillicons.dev/icons?i=mongodb)
