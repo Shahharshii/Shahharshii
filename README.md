@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Harshi Shah](https://github.com/Shahharshii/Shahharshii/blob/main/Harshi%20Shah.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=000000&size=24&width=500&lines=👩‍💻Frontend-Developer;📊Data-Analyst;🔎Software-Testing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=000000&size=24&width=500&lines=👩‍💻Frontend-Developer;📊Data-Analyst;🔎Software-Tester)
 
 - 💬 Ask me about Frontend Development, Data Analyst, Software Testing.
 - 📫 How to reach me: shahharshi.2704@gmail.com
@@ -24,3 +24,12 @@
 
 ### Database 
 ![My Skills](https://skillicons.dev/icons?i=mongodb)
+
+### Github Analytics
+<p align="center">
+  <a href="https://github.com/Shahharshii">
+    <img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahharshii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahharshii&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
