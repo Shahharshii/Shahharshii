@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Harshi Shah](https://github.com/Shahharshii/Shahharshii/blob/main/Harshi%20Shah.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=15F7BDFF&size=24&width=500&lines=Frontend-Developer;Data-Analyst;Software-Testing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=000000&size=24&width=500&lines=👩‍💻Frontend-Developer;📊Data-Analyst;🔎Software-Testing)
 
 - 💬 Ask me about Frontend Development, Data Analyst, Software Testing.
 - 📫 How to reach me: shahharshi.2704@gmail.com
