@@ -42,5 +42,7 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Shahharshii&" alt="Shahharshii" /></p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaharshii)](https://git.io/streak-stats)
 
