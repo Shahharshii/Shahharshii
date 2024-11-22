@@ -43,6 +43,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahharshii&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahharshii&theme=algolia" alt="GitHub Streak" /></a>
 </p>
 
