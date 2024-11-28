@@ -26,7 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb)
 
 ### Github Analytics
-<p align="center">
+<p align="left">
   <a href="https://github.com/Shahharshii">
     <img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahharshii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      <img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahharshii&layout=compact&langs_count=8&theme=algolia"/>
